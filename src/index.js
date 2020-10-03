@@ -23,4 +23,3 @@ exports.avg = function avg (array) {
   var avg = total / array.length;
   return avg;
 }
-if (array.length == 0) return 0;   
